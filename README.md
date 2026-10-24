@@ -1,1 +1,2 @@
 # odin-recipes
+This is a basic recipe website project meant to help showcase my HTML capabilities such as creating a html boilerplate, incorporating images and links in a website,creation of paragraphs and headings and also italicizing or bolding characters.
