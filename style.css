@@ -1,0 +1,17 @@
+body {
+    background-color: brown;
+}
+.title {
+    margin: 16px;
+    padding :2px ;
+    border: 3px;
+    background: burlywood;
+    border-color: antiquewhite;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.list {
+    background-color:aquamarine ;
+    text-align: center;
+    padding: 20px;
+}
