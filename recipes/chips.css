@@ -1,0 +1,13 @@
+body {
+    background-color: yellowgreen;
+ }
+ .title {
+    text-align: center;
+     margin: 16px;
+    padding: 3px;
+    border: 2px;
+    border-color: blue;
+    background-color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+ }
