@@ -1,0 +1,12 @@
+body {
+    background-color: yellowgreen;
+    
+}
+.list {
+    text-align: center;
+     margin: 16px;
+    padding: 3px;
+    border: 2px;
+    border-color: blue;
+    background-color: blueviolet;
+}
